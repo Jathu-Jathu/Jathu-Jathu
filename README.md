@@ -1,3 +1,5 @@
+[![MasterHead](https://files.oaiusercontent.com/file-PmH8LxMFTAoi2DXpjhrjtT?se=2024-11-24T17%3A30%3A55Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D3c6269fa-a178-489d-8035-55526fc0bc54.webp&sig=SZtAvQ7fZDUY2BZh9KagL9ELwIa0a%2BYJ0hSuVR2madg%3D)]
+
 <h1 align="center">Hi 👋, I'm Jathu</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
