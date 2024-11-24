@@ -15,7 +15,7 @@
   <img align="center" src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="jtshaa17@gmail.com" height="30" width="40" />
 </a>
  <a href="https://instagram.com/iamssja_thu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamssja_thu" height="30" width="40" /></a>
-<a href="https://fb.com/jathu jathurshaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jathu jathurshaa" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/1EscGF6Pim/?mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jathu jathurshaa" height="30" width="40" /></a>
 
 </p>
 
