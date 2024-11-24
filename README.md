@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.80.lv/api/upload/post/1422/images/5d28a7dfc395b/widen_2440x0.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Jathu</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
