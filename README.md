@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 📫 How to reach me **jtshaa17@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
