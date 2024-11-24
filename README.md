@@ -1,4 +1,4 @@
-[![MasterHead](https://images.stockcake.com/public/8/b/c/8bcd6a73-74f8-44b6-9f30-179707d5212d_large/tech-driven-workspace-setup-stockcake.jpg)]
+![MasterHead](https://cdn.80.lv/api/upload/post/1422/images/5d28a7dfc395b/widen_2440x0.jpg)
 
 <h1 align="center">Hi 👋, I'm Jathu</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
