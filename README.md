@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jathu</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
+<img align="right" alt="Coding" width="400" src="https://codeandhack.com/wp-content/uploads/2023/06/coding-person-ws-theme.jpg">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jathu-jathu&label=Profile%20views&color=0e75b6&style=flat" alt="jathu-jathu" /> </p>
 
 - 🌱 I’m currently learning **ReactJS**
