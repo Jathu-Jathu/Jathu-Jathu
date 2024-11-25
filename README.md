@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
+![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
 
 <h1 align="center">Hi 👋, I'm Jathu</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
