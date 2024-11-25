@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
+![MasterHead](https://www.9series.com/img/services/full-stack/best%20Full%20Stack%20development%20company%20in%20India.jpg)
 
 <h1 align="center">Hi 👋, I'm Jathu</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
