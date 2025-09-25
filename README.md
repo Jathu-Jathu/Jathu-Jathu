@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jathu-jathu&label=Profile%20views&color=0e75b6&style=flat" alt="jathu-jathu" /> </p>
 
-- 🌱 I’m currently learning **nextJS**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **Web & Mobile App Development**
 
