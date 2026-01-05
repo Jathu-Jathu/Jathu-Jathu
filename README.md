@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 
 <h1 align="center">Hi 👋, I'm Jathu</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
 
 <img align="right" alt="Coding" width="400" height="300" src="https://codeandhack.com/wp-content/uploads/2023/06/coding-person-ws-theme.jpg">
 
