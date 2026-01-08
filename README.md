@@ -1,15 +1,16 @@
 ![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 
 <h1 align="center">Hi 👋, I'm Jathu</h1>
-<h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
+<h3 align="center">A Passionate Full Stack Developer from Sri Lanka</h3>
 
 <img align="right" alt="Coding" width="400" height="300" src="https://codeandhack.com/wp-content/uploads/2023/06/coding-person-ws-theme.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jathu-jathu&label=Profile%20views&color=0e75b6&style=flat" alt="jathu-jathu" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Artificial Intelligence (AI) and Machine Learning (ML)**
 
-- 💬 Ask me about **Web & Mobile App Development**
+- 💬 Ask me about **Web & Mobile Application Development**
+- 🚀 Interested in building clean and user-friendly applications
 
 
 <h3 align="left">Connect with me:</h3>
