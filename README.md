@@ -7,10 +7,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jathu-jathu&label=Profile%20views&color=0e75b6&style=flat" alt="jathu-jathu" /> </p>
 
- 🌱 I’m currently learning **Artificial Intelligence (AI) and Machine Learning (ML)**
+- 🌱 I’m currently learning **Artificial Intelligence (AI) and Machine Learning (ML)**
 
- 💬 Ask me about **Web & Mobile Application Development**
- 🚀 Interested in building clean and user-friendly applications
+- 💬 Ask me about **Web & Mobile Application Development**
+- 🚀 Interested in building clean and user-friendly applications
 
 
 <h3 align="left">Connect with me:</h3>
